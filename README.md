@@ -2,8 +2,17 @@
 
 
 <h2>
-Known as KevY007, KevYBeasT, Rehaab, 0x32789 and formerly Kevin Hendrews/Scaletta. (roleplaying names, nothing more)
+Known as/other names & formerly:
 </h2>
+
+<br><i>
+*KevY007*
+*KevYBeasT*
+*Rehaab*
+*0x32789*
+*Kevin Hendrews/Scaletta (roleplaying names)*
+</i></br>
+
 
 :construction_worker:
 *I work with multiple languages, including C#, C++, JavaScript, Pawn/Amx, .NET, basic/beginner level SQL, Python, Lua and Java.*
