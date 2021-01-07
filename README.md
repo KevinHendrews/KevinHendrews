@@ -1,5 +1,6 @@
 # KevY's Github Profile
 
+
 <h2>
 Known as KevY007, KevYBeasT, Rehaab, 0x32789 and formerly Kevin Hendrews/Scaletta. (roleplaying names, nothing more)
 </h2>
@@ -12,9 +13,13 @@ I have a really inconsistent work of flow, I work with multiple languages at the
 #
 
 :technologist: **Platforms I've openly worked on:** *(Mostly games)*
+
 [SA:MP](https://sa-mp.com/) Scripting, Hacking (memory hacking and tad bit reverse engineering).
+
 [IV:MP] Scripting (abandoned)
+
 [RAGE:MP](https://rage.mp/) Scripting (ongoing/paused)
+
 I've worked on many other platforms as well.
 
 #
@@ -26,4 +31,5 @@ I mostly work in **private repositories**.
 
 :mailbox_with_mail: **Contact Info:**
 Discord: KevY#0382 (Best way to contact me)
+
 Email (don't usually check): rehaab.atique@icloud.com
