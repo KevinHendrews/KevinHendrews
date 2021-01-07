@@ -15,12 +15,11 @@ Rehaab,
 # 
 
 :construction_worker:
-***I work with multiple languages, including C#, C++, JavaScript, Pawn/Amx, .NET, basic/beginner level: SQL, Python, Lua and Java.***
+***I work with multiple languages, including C#, C++, JavaScript, Pawn/Amx, CLEO/Sanny Builder, .NET, basic/beginner level: SQL, Python, Lua and Java.***
 
 # 
 
 :bulb:
-
 I have a really inconsistent work of flow, I work with multiple languages at the same time or I don't target a specific language. I go with whatever suits my project regardless of how much knowledge I have and intend to self-learn and use it as experience.
 
 #
