@@ -1,17 +1,29 @@
-# سلام (Salam), I'm Mehad!
+<h2 style="text-align:center">
+KevY 
+</h2>
 
-:technologist: 
-
-I am a programmer mostly working with Python, Javascript, and SQL. More specifically, I often work with both Node.js and MySQL, and I also frequently work with the [RAGE:MP](https://rage.mp/) platform.
-
-:floppy_disk:
-
-The majority of my code is hidden in **private** repositories at the moment. If you're interested in my work, feel free to contact me for more information.
+# Known as KevY007, KevYBeasT, Rehaab, 0x32789 and formerly Kevin Hendrews/Scaletta. (roleplaying names, nothing more)
 
 :construction_worker:
+*I work with multiple languages, including C#, C++, JavaScript, Pawn/Amx, .NET, basic/beginner level SQL, Python, Lua and Java.*
 
-If anything I've posted on my Github is not working, feel free to reach out to me! I'd be glad to try and troubleshoot any issues or patch any bugs out. 
+I have a really inconsistent work of flow, I work with multiple languages at the same time or I don't target a specific language. I go with whatever suits my project regardless of how much knowledge I have and intend to self-learn and use it as experience.
 
-:mailbox_with_mail:
+#
 
-The best way to contact me is on Discord, mehad hamad#4819 (don't forget the space!)
+:technologist: **Platforms I've openly worked on:** *(Mostly games)*
+[SA:MP](https://sa-mp.com/) Scripting, Hacking (memory hacking and tad bit reverse engineering).
+[IV:MP] Scripting (abandoned)
+[RAGE:MP](https://rage.mp/) Scripting (ongoing/paused)
+I've worked on many other platforms as well.
+
+#
+
+:floppy_disk:
+I mostly work in **private repositories**.
+
+#
+
+:mailbox_with_mail: **Contact Info:**
+Discord: KevY#0382 (Best way to contact me)
+Email (don't usually check): rehaab.atique@icloud.com
