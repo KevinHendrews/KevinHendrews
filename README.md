@@ -4,13 +4,11 @@
 :handshake: Known as/other names & formerly:
 </h2>
 
-<p><i><b>
-KevY007, 
-KevYBeasT, 
-Rehaab, 
-0x32789, 
-  <s>Kevin Hendrews/Scaletta</s>
-  </b></i></p>
+- KevY007
+- KevYBeasT
+- Rehaab
+- 0x32789
+- <s>Kevin Hendrews/Scaletta</s>
 
 # 
 
