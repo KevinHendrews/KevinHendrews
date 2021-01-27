@@ -26,7 +26,7 @@ I have a really inconsistent work of flow, I work with multiple languages at the
 **Platforms I've openly worked on:** *(Mostly games)*
 
 - [SA:MP](https://sa-mp.com/) Scripting, Hacking (memory hacking and tad bit reverse engineering).
-- [IV:MP] Scripting (no longer working)
+- [IV:MP](http://www.iv-mp.eu/) Scripting (no longer working)
 - [RAGE:MP](https://rage.mp/) Scripting (ongoing/paused)
 - [Minecraft/Spigot](https://spigotmc.org/) Plugin Development (no longer working)
 - [Minecraft/ComputerCraft](https://computercraft.info/) Making programs in Lua (no longer working)
